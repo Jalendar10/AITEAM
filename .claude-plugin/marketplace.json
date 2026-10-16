@@ -1,0 +1,45 @@
+{
+  "name": "ecc",
+  "owner": {
+    "name": "AITEAM"
+  },
+  "metadata": {
+    "description": "Harness-native ECC skills, hooks, rules, MCP conventions, and operator workflows"
+  },
+  "plugins": [
+    {
+      "name": "ecc",
+      "source": "./",
+      "description": "Harness-native ECC operator layer - 71 agents, 311 skills, 97 legacy command shims, reusable hooks, rules, selective install profiles, and production-ready workflows for Claude Code, Codex, OpenCode, Cursor, and related agent harnesses",
+      "version": "2.2.3",
+      "author": {
+        "name": "AITEAM"
+      },
+      "homepage": "https://github.com/Jalendar10/AITEAM",
+      "repository": "https://github.com/Jalendar10/AITEAM",
+      "license": "MIT",
+      "keywords": [
+        "agents",
+        "skills",
+        "hooks",
+        "commands",
+        "tdd",
+        "code-review",
+        "security",
+        "best-practices"
+      ],
+      "category": "workflow",
+      "tags": [
+        "agents",
+        "skills",
+        "hooks",
+        "commands",
+        "tdd",
+        "code-review",
+        "security",
+        "best-practices"
+      ],
+      "strict": false
+    }
+  ]
+}
